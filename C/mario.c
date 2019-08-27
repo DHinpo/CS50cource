@@ -16,8 +16,8 @@ int main(void)
                         printf("#");
                     }
         printf("\n");
-}
         }
+}
         
 
 int get_height(string prompt)
