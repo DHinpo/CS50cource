@@ -55,7 +55,7 @@ int main(void)
                     {
                     name = "MASTERCARD";  
                     }
-               }
+                }
             printf("%s\n", name);
-         }
+        }
 }   
