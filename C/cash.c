@@ -6,7 +6,7 @@ int main(void)
 {  
     float dollars;      
     int r = 0;
-     do
+    do
     {
         dollars = get_float("Change: ");
     }
