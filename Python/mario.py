@@ -8,7 +8,7 @@ while True:
 		if n > 0 and n < 9:
 			break
 
-# сам print
+# сам  print
 for i in range(n):
 	print(" " * (n-1), end="")
 	print("#" * (i+1), end="") # друкує '#' без вирівнювання
