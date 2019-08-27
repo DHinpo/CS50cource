@@ -9,6 +9,7 @@ def main():
 	text1 = input('plaintext: ')
 	print ('ciphertext: ', end = "")
 	
+	
 	for c in text1:
 		t = ord(c)
 		if t > 64 and t < 91:
