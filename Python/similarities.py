@@ -20,4 +20,4 @@ def substring_tokenize(str, n):
 def substrings(a, b, n):
     substrings_1 = set(substring_tokenize(a, n))
     substrings_2 = set(substring_tokenize(b, n))
-    return substrings_1 & substrings_2
+    return substrings_1 & substrings_2 

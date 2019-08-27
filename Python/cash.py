@@ -8,7 +8,7 @@ while True:
 		if dollars > 0:
 			break
 
-# підрахунок монет 
+# підрахунок монет  
 coins = round(dollars * 100)
 r = 0
 if coins >= 25:
