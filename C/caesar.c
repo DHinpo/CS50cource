@@ -50,6 +50,6 @@ int argument(string argv[])
            {
                 x = (int) argv[1];
             }
-      }
+       }
     return x;  
 }
