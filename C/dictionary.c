@@ -39,7 +39,7 @@ bool load(const char *dictionary)
         return false;
     while (!feof(fp))
     {
-        char word[LENGTH+1] = {};     //  
+        char word[LENGTH+1] = {};     
         fscanf(fp,"%s\n",word);
         count++;
         node *ptr = &root;
